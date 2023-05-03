@@ -9,5 +9,5 @@ Leveraging my background in Statistics and Computer Science, I've built a strong
 * Virtual Reality
 * Healthcare Innovation
 * Machine Learning
-* 
+
 Connect with me as I explore the intersection of technology and the human mind! 🧠✨
