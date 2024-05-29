@@ -6,8 +6,9 @@ Leveraging my background in Statistics and Computer Science, I've built a strong
 
 🚀 My core interests include:
 
-* Virtual Reality
-* Predictive Processing Theory
+* Research
+* Health 
 * Machine Learning
+* Data Science 
 
 Connect with me as I explore the intersection of technology and the human mind! 🧠✨
